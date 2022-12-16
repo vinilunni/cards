@@ -1,0 +1,8 @@
+{
+  "name": "cards",
+  "type": "appBlock",
+  "source": {
+    "https": "https://github.com/vinilunni/cards",
+    "ssh": "git@github.com:vinilunni/cards.git"
+  }
+}
